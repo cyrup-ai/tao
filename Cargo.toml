@@ -39,12 +39,12 @@ features = [ "serde_derive",]
 
 [dependencies.rwh_04]
 package = "raw-window-handle"
-version = "0.6"
+version = "0.4"
 optional = true
 
 [dependencies.rwh_05]
 package = "raw-window-handle"
-version = "0.6"
+version = "0.5"
 features = [ "std",]
 optional = true
 
